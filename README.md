@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kalvaharshith/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1002-find-common-characters](https://github.com/kalvaharshith/leetcode_problems/tree/master/1002-find-common-characters) |
 | [1408-string-matching-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1408-string-matching-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/kalvaharshith/leetcode_problems/tree/master/2126-destroying-asteroids) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/kalvaharshith/leetcode_problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kalvaharshith/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kalvaharshith/leetcode_problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/kalvaharshith/leetcode_problems/tree/master/1002-find-common-characters) |
 ## Math
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kalvaharshith/leetcode_problems/tree/master/0884-uncommon-words-from-two-sentences) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
