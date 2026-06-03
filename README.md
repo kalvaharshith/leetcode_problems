@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kalvaharshith/leetcode_problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kalvaharshith/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/0697-degree-of-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kalvaharshith/leetcode_problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/kalvaharshith/leetcode_problems/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/kalvaharshith/leetcode_problems/tree/master/0263-ugly-number) |
 ## Two Pointers
 |  |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/0496-next-greater-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kalvaharshith/leetcode_problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kalvaharshith/leetcode_problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
