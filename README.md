@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/kalvaharshith/leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kalvaharshith/leetcode_problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/kalvaharshith/leetcode_problems/tree/master/1002-find-common-characters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1408-string-matching-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
