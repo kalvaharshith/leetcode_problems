@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/kalvaharshith/leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kalvaharshith/leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3161-block-placement-queries](https://github.com/kalvaharshith/leetcode_problems/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kalvaharshith/leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kalvaharshith/leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3908-valid-digit-number](https://github.com/kalvaharshith/leetcode_problems/tree/master/3908-valid-digit-number) |
