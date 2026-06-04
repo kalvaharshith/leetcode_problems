@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/kalvaharshith/leetcode_problems/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/kalvaharshith/leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kalvaharshith/leetcode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3908-valid-digit-number](https://github.com/kalvaharshith/leetcode_problems/tree/master/3908-valid-digit-number) |
 ## Two Pointers
