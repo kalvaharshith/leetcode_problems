@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/kalvaharshith/leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kalvaharshith/leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kalvaharshith/leetcode_problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kalvaharshith/leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/kalvaharshith/leetcode_problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/kalvaharshith/leetcode_problems/tree/master/1002-find-common-characters) |
 | [1408-string-matching-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1408-string-matching-in-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
