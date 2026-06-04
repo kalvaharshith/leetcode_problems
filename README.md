@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/kalvaharshith/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kalvaharshith/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kalvaharshith/leetcode_problems/tree/master/0728-self-dividing-numbers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kalvaharshith/leetcode_problems/tree/master/0204-count-primes) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/kalvaharshith/leetcode_problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/kalvaharshith/leetcode_problems/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/kalvaharshith/leetcode_problems/tree/master/0196-delete-duplicate-emails) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
