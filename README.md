@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/kalvaharshith/leetcode_problems/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/kalvaharshith/leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
+| [0896-monotonic-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/0896-monotonic-array) |
 | [1002-find-common-characters](https://github.com/kalvaharshith/leetcode_problems/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/kalvaharshith/leetcode_problems/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1122-relative-sort-array) |
