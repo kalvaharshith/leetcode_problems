@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/kalvaharshith/leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
 | [1002-find-common-characters](https://github.com/kalvaharshith/leetcode_problems/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/kalvaharshith/leetcode_problems/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1408-string-matching-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kalvaharshith/leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/kalvaharshith/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kalvaharshith/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1122-relative-sort-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1122-relative-sort-array) |
 | [2126-destroying-asteroids](https://github.com/kalvaharshith/leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kalvaharshith/leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/kalvaharshith/leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/kalvaharshith/leetcode_problems/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kalvaharshith/leetcode_problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/kalvaharshith/leetcode_problems/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kalvaharshith/leetcode_problems/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
