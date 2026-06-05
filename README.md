@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalvaharshith/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/kalvaharshith/leetcode_problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kalvaharshith/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/0496-next-greater-element-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalvaharshith/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/kalvaharshith/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [3161-block-placement-queries](https://github.com/kalvaharshith/leetcode_problems/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalvaharshith/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/kalvaharshith/leetcode_problems/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/kalvaharshith/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/kalvaharshith/leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
