@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/kalvaharshith/leetcode_problems/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/kalvaharshith/leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0896-monotonic-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/0896-monotonic-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/kalvaharshith/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/kalvaharshith/leetcode_problems/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/kalvaharshith/leetcode_problems/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1122-relative-sort-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/kalvaharshith/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kalvaharshith/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kalvaharshith/leetcode_problems/tree/master/0728-self-dividing-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/kalvaharshith/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kalvaharshith/leetcode_problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1399-count-largest-group](https://github.com/kalvaharshith/leetcode_problems/tree/master/1399-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kalvaharshith/leetcode_problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
