@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/kalvaharshith/leetcode_problems/tree/master/0006-zigzag-conversion) |
 | [0459-repeated-substring-pattern](https://github.com/kalvaharshith/leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/kalvaharshith/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0819-most-common-word](https://github.com/kalvaharshith/leetcode_problems/tree/master/0819-most-common-word) |
