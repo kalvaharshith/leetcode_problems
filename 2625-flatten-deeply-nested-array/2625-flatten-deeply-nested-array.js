@@ -1,0 +1,22 @@
+/**
+ * @param {Array} arr
+ * @param {number} depth
+ * @return {Array}
+ */
+var flat = function (arr, depth) {
+    if (depth === 0) {
+        return arr;
+    }
+
+    const result = [];
+
+    for (const item of arr) {
+        if (Array.isArray(item)) {
+            result.push(...flat(item, depth - 1));
+        } else {
+            result.push(item);
+        }
+    }
+
+    return result;
+};
