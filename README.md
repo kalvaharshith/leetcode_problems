@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/kalvaharshith/leetcode_problems/tree/master/1399-count-largest-group) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kalvaharshith/leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalvaharshith/leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1408-string-matching-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalvaharshith/leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String Matching
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/kalvaharshith/leetcode_problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/kalvaharshith/leetcode_problems/tree/master/1399-count-largest-group) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalvaharshith/leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
