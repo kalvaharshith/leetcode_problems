@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1408-string-matching-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kalvaharshith/leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kalvaharshith/leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1640-check-array-formation-through-concatenation](https://github.com/kalvaharshith/leetcode_problems/tree/master/1640-check-array-formation-through-concatenation) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/kalvaharshith/leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kalvaharshith/leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/kalvaharshith/leetcode_problems/tree/master/1399-count-largest-group) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kalvaharshith/leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1640-check-array-formation-through-concatenation](https://github.com/kalvaharshith/leetcode_problems/tree/master/1640-check-array-formation-through-concatenation) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kalvaharshith/leetcode_problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
