@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/kalvaharshith/leetcode_problems/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/kalvaharshith/leetcode_problems/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1122-relative-sort-array) |
+| [1260-shift-2d-grid](https://github.com/kalvaharshith/leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1408-string-matching-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kalvaharshith/leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kalvaharshith/leetcode_problems/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/kalvaharshith/leetcode_problems/tree/master/1260-shift-2d-grid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-print-zero-even-odd](https://github.com/kalvaharshith/leetcode_problems/tree/master/1116-print-zero-even-odd) |
 | [1195-fizz-buzz-multithreaded](https://github.com/kalvaharshith/leetcode_problems/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/kalvaharshith/leetcode_problems/tree/master/1226-the-dining-philosophers) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/kalvaharshith/leetcode_problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
