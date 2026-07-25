@@ -1,17 +1,13 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
-        na = []
+        first = second = 0
 
         while n > 0:
             digit = n % 10
-            na.append(digit)
+            if digit >= first:
+                second = first
+                first = digit
+            elif digit > second:
+                second = digit
             n //= 10
-
-        max1 = max(na)
-        na.remove(max1)
-        max2 = max(na)
-
-        return max1 * max2
-        
-
-        
+        return first * second
