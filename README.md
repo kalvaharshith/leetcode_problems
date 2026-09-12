@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/kalvaharshith/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalvaharshith/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/kalvaharshith/leetcode_problems/tree/master/0204-count-primes) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/kalvaharshith/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/kalvaharshith/leetcode_problems/tree/master/2126-destroying-asteroids) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalvaharshith/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/kalvaharshith/leetcode_problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/0344-reverse-string) |
