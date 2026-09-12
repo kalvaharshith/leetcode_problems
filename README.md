@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalvaharshith/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/kalvaharshith/leetcode_problems/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/kalvaharshith/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/kalvaharshith/leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
 | [1089-duplicate-zeros](https://github.com/kalvaharshith/leetcode_problems/tree/master/1089-duplicate-zeros) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/kalvaharshith/leetcode_problems/tree/master/0006-zigzag-conversion) |
+| [0344-reverse-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/kalvaharshith/leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/kalvaharshith/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0819-most-common-word](https://github.com/kalvaharshith/leetcode_problems/tree/master/0819-most-common-word) |
