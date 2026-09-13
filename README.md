@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/kalvaharshith/leetcode_problems/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/kalvaharshith/leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
+| [0835-image-overlap](https://github.com/kalvaharshith/leetcode_problems/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/0896-monotonic-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/kalvaharshith/leetcode_problems/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/kalvaharshith/leetcode_problems/tree/master/1002-find-common-characters) |
@@ -229,5 +230,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/kalvaharshith/leetcode_problems/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/kalvaharshith/leetcode_problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
