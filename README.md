@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/kalvaharshith/leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalvaharshith/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/kalvaharshith/leetcode_problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kalvaharshith/leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalvaharshith/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/kalvaharshith/leetcode_problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/0344-reverse-string) |
@@ -165,11 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/0496-next-greater-element-i) |
 ## Enumeration
 |  |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
