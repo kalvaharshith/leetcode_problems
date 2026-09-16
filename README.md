@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/kalvaharshith/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/kalvaharshith/leetcode_problems/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalvaharshith/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/kalvaharshith/leetcode_problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kalvaharshith/leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kalvaharshith/leetcode_problems/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/kalvaharshith/leetcode_problems/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/kalvaharshith/leetcode_problems/tree/master/0645-set-mismatch) |
 ## Recursion
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kalvaharshith/leetcode_problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kalvaharshith/leetcode_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
