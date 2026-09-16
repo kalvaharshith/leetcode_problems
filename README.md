@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/kalvaharshith/leetcode_problems/tree/master/1399-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kalvaharshith/leetcode_problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kalvaharshith/leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kalvaharshith/leetcode_problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/kalvaharshith/leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kalvaharshith/leetcode_problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -209,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kalvaharshith/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kalvaharshith/leetcode_problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kalvaharshith/leetcode_problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kalvaharshith/leetcode_problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kalvaharshith/leetcode_problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2574-left-and-right-sum-differences](https://github.com/kalvaharshith/leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/kalvaharshith/leetcode_problems/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/kalvaharshith/leetcode_problems/tree/master/1260-shift-2d-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kalvaharshith/leetcode_problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
