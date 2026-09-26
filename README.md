@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kalvaharshith/leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/kalvaharshith/leetcode_problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/kalvaharshith/leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/kalvaharshith/leetcode_problems/tree/master/0704-binary-search) |
 | [3161-block-placement-queries](https://github.com/kalvaharshith/leetcode_problems/tree/master/3161-block-placement-queries) |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/kalvaharshith/leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kalvaharshith/leetcode_problems/tree/master/0090-subsets-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kalvaharshith/leetcode_problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
